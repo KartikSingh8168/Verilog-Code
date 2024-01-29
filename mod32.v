@@ -21,7 +21,7 @@ always @(posedge clk) begin
 end
 endmodule
 
-
+//tanish has added the command
 module tff(t,clk,rst,q);
 input clk,rst,t;
 output reg q;
